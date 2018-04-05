@@ -97,6 +97,6 @@ Port e.g. -
 
 ## Usage
 
-Using a stand-alone file that anyone with Java installed (which is basically everyone) can execute. To run:
+Using a stand-alone file that anyone with Java installed (which is basically everyone) can execute. Run from ./clojure-practice/clj-basic-web:
 
     $ java -jar target/uberjar/clj-basic-web-0.1.0-standalone.jar [args]
